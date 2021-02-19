@@ -1,0 +1,12 @@
+requests
+bs4
+urllib
+ipwhois
+whois
+dnsdumpster
+
+===========================================
+
+whois (https://pypi.org/project/whois/)
+ipwhois (https://pypi.org/project/ipwhois/)
+pip3 install dnsdumpster --user
