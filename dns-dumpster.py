@@ -35,13 +35,12 @@ if __name__ == '__main__':
     import sys
 
     banner = """
-  ___  _  _ ___   ___                           
- |   \| \| / __| |   \ _  _ _ __  _ __  ___ _ _ 
+  ___  _  _ ___   ___
+ |   \| \| / __| |   \ _  _ _ __  _ __  ___ _ _
  | |) | .` \__ \ | |) | || | '  \| '_ \/ -_) '_|
- |___/|_|\_|___/ |___/ \_,_|_|_|_| .__/\___|_|  
-                                 |_|            
+ |___/|_|\_|___/ |___/ \_,_|_|_|_| .__/\___|_|
+                                 |_|
 
-     Developed by boxtrot
     """
     print(banner)
 
@@ -59,4 +58,3 @@ if __name__ == '__main__':
             magic(domain)
         except:
             print("MAKE SURE THAT THE DOMAIN EXISTS OR IS UP...")
-
